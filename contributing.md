@@ -80,4 +80,3 @@ Thanks for your interest in contributing to MachineLearning — the repo for my 
 ## Thank you
 Thank you for taking the time to contribute — your help makes this project better and helps others learn. Contributions large or small are appreciated!
 
-If you'd like this message personalized (for example, adding a contributor badge, maintainer contact, or repository-specific commands), tell me what to include and I'll update the file.
